@@ -17,5 +17,5 @@ Machine Learning Models
 <h2>Program walk-through:</h2>
 
 <p align="center">
-This is a list of short practise models & datasets that I created while learning Mahcine Learning
+This is a list of short practise models & datasets that I created while exploring Machine Learning
 </p>
